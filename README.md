@@ -9,7 +9,7 @@
 
 [Create React App](https://create-react-app.dev/)<br>
 [Material UI](https://create-react-app.dev/)<br>
-[Images](https://www.freepik.com/)<br>
+[Images From Freepik](https://www.freepik.com/)<br>
 
 # Preview
 
