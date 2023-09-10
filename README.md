@@ -13,6 +13,6 @@
 
 # Preview
 
- ![React Animated Signin Signup | React Login Register Page](https://github.com/trananhtuat/react-animated-signin-signup/assets/67447840/2b8dbe86-b732-48cb-b035-f44871fd883f)
+![React Animated Signin Signup | React Login Register Page](https://github.com/trananhtuat/react-animated-signin-signup/assets/67447840/25cb5f84-d85d-453d-8bc5-d96c78756052)
 
- ![Screenshot (162)](https://github.com/trananhtuat/react-animated-signin-signup/assets/67447840/3031d08e-5a8a-435d-ab0d-7248c034372e)
+![React Animated Signin Signup | React Login Register Page](https://github.com/trananhtuat/react-animated-signin-signup/assets/67447840/718f1e1e-f3f6-47ea-966a-12571f9816e8)
